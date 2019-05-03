@@ -1,0 +1,2 @@
+In (i) of part (a), you didn't consider the rounding error after each multiplication.
+In (ii) of part (a), you didn't consider the rounding error after multiplication by n.
